@@ -1,0 +1,56 @@
+{
+  "cells": [
+    {
+      "type": "app.FlowchartStart",
+      "size": {
+        "width": 48,
+        "height": 48
+      },
+      "ports": {
+        "items": [
+          {
+            "group": "out",
+            "id": "4eb6a098-7345-4e6d-b15f-7a8069339170"
+          }
+        ]
+      },
+      "position": {
+        "x": -88,
+        "y": -296
+      },
+      "id": "15b1e67d-2d13-4c26-9061-059218126f6c",
+      "z": 18,
+      "attrs": {
+        "label": {
+          "text": "Start"
+        }
+      }
+    },
+    {
+      "type": "app.FlowchartEnd",
+      "size": {
+        "width": 48,
+        "height": 48
+      },
+      "ports": {
+        "items": [
+          {
+            "group": "in",
+            "id": "a05eeff4-344c-4f83-9bc9-4bfa156e20ba"
+          }
+        ]
+      },
+      "position": {
+        "x": -88,
+        "y": 552
+      },
+      "id": "8b1eff36-0d08-4326-9c06-3197387286a5",
+      "z": 20,
+      "attrs": {
+        "label": {
+          "text": "End"
+        }
+      }
+    }
+  ]
+}
